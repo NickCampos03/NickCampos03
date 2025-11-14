@@ -11,6 +11,7 @@ Estudante de Ciência da Computação do Instituto Federal de Educação, Ciênc
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Office](https://img.shields.io/badge/Office-%23E4405F?style=for-the-badge&logo=&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-100?style=for-the-badge&logo=&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 # GitHub stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickCampos03&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00599C&text_color=FFF)
