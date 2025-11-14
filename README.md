@@ -12,6 +12,8 @@ Estudante de Ciência da Computação do Instituto Federal de Educação, Ciênc
 ![Office](https://img.shields.io/badge/Office-%23E4405F?style=for-the-badge&logo=&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-100?style=for-the-badge&logo=&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+
 
 # GitHub stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NickCampos03&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=00599C&text_color=FFF)
